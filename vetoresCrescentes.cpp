@@ -3,4 +3,4 @@ void vetoresCrescentes(int v[], int tamanho, int i) {
 
     v[i] = i + 1;
     vetoresCrescentes(v, tamanho, i + 1);
-}
+} 

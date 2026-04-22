@@ -71,6 +71,7 @@ int main()
     vetoresCrescentes(buscaDezMil, 10000, 0);
     vetoresCrescentes(buscaVinteMil, 20000, 0);
 
+    
     // Busca Binária
 
     // ________________ Tempo de Execução para 100 Elementos ________________

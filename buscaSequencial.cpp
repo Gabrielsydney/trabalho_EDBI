@@ -1,5 +1,5 @@
 #include <iostream>
-#include "buscaSequencial.h"
+#include "buscaSequencial.h" 
 
 int buscaSequencial(int vetor[], int tamanhoVetor, int numeroEscolhido)
 {
